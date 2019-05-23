@@ -76,7 +76,7 @@ SIP is our instant-response team whenever something goes wrong, is about to go w
 
 ### QA
 
-Before we ship a new feature, **Michael Berger** and **Ann Goliak** are our resident bug squashers. Their job is to break things so we know what needs fixing. They run rolling tests on all web and mobile versions of Basecamp for quality control. Few things ship without their stamp of quality approval.
+Before we ship a new feature, **Michael Berger** is our resident bug squasher. His job is to break things so we know what needs fixing. He runs rolling tests on all web and mobile versions of Basecamp for quality control. Few things ship without his stamp of quality approval.
 
 ### The REWORK Podcast
 
